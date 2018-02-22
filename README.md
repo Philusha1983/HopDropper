@@ -1,2 +1,7 @@
 # HopDropper
-Hops dropper and brewing additions for Craft Beer Pi operated home-breweries.
+
+This project started after Manuel wrote a super cool plugin that activate an actor when hop alert is triggered. 
+
+# parts
+
+12v motor from Aliexpress
