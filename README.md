@@ -1,6 +1,4 @@
-## 
-
-CBPi - Hop Dropper v.1
+# CBPi - Hop Dropper v.1
 
 * * *
 
