@@ -10,7 +10,7 @@ finnings during [boil step](https://github.com/Manuel83/cbpi-boil-hopdropper) in
 
 ### Required parts
 
-- [12v slow torque motor](https://www.aliexpress.com/item/1-Pcs-Geared-Moto-Reversible-High-Torque-Turbo-Worm-Geared-Motor-DC-12V-Motor-GW-GJY370/32812292707.html) 
+- [12v slow torque motor](https://gb9vn.app.goo.gl/WrnC) 
 - Some screws 
 
  
